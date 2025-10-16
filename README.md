@@ -91,7 +91,7 @@ Here are some of the projects I'm most proud of.
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=saifxyzyz&show_icons=true&theme=highcontrast&hide_border=true&border_radius=15" alt="Saif's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saifxyzyz&theme=highcontrast&hide_border=true&border_radius=5" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=saifxyzyz&theme=highcontrast&hide_border=true&border_radius=5" alt="GitHub Streak" />
 
   <br>
   
