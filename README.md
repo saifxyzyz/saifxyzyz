@@ -14,7 +14,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://x.com/saif0z">
-      <img src="https://img.shields.io/twitter/follow/:saif0z" alt="x"/>
+      <img src="https://img.shields.io/twitter/follow/:saif0" alt="x"/>
     </a>
   </p>
   
@@ -90,17 +90,17 @@ Here are some of the projects I'm most proud of.
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=b1gh3ro&show_icons=true&theme=highcontrast&hide_border=true&border_radius=15" alt="Saad's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=b1gh3ro&theme=highcontrast&hide_border=true&border_radius=5" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saifxyzyz&show_icons=true&theme=highcontrast&hide_border=true&border_radius=15" alt="Saif's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saifxyzyz&theme=highcontrast&hide_border=true&border_radius=5" alt="GitHub Streak" />
 
   <br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1gh3ro&layout=compact&theme=highcontrast&hide_border=true&langs_count=8" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifxyzyz&layout=compact&theme=highcontrast&hide_border=true&langs_count=8" alt="Top Languages">
   
   <details>
     <summary>Click to view my GitHub Activity Graph</summary>
     <br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=b1gh3ro&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=saifxyzyz&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
   </details>
 
 </div>
@@ -112,7 +112,7 @@ Here are some of the projects I'm most proud of.
 I'm always open to collaborating on projects or discussing new ideas. Feel free to reach out to me!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammed-saad-mujeeb">
+  <a href="www.linkedin.com/in/mohammed-saif-a6097b227">
     <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/>
   </a>
 </p>
