@@ -59,14 +59,14 @@ Here are some of the projects I'm most proud of.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/M-A-Edwards/legalite">📌 Legalite</a></h3>
-      <p>A cross-platform Flutter app to modernize the legal ecosystem by connecting clients and lawyers. Features include secure role-based authentication, encrypted real-time messaging, a lawyer directory, and an AI-powered law bot for instant legal guidance.</p>
-      <p><sub><b>Tools:</b> Flutter, Dart, Firebase, NLP</sub></p>
+      <h3><a href="https://github.com/saifxyzyz/WordSmith">📌 WordSmith</a></h3>
+      <p>A fine-tuned LLM trained on professional and personalized emails to act as your professional correspondence</p>
+      <p><sub><b>Tools:</b> Python, Huggingface, transformers, torch</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/sri-harini-m/legalink">📌 Legalink</a></h3>
-      <p>A web and mobile platform to assist undertrial prisoners in India by streamlining access to legal aid. The app provides real-time client tracking, an attorney directory, trial management dashboards, and a GPT-based AI Lawbot for guidance.</p>
-      <p><sub><b>Tools:</b> React.js, Node.js, Firebase, OpenAI API</sub></p>
+      <h3><a href="https://github.com/saifxyzyz/jobhut">📌 JobHut</a></h3>
+      <p>A Platform for connecting domestic workers with oportunities</p>
+      <p><sub><b>Tools:</b> JavaScript, TypeScript, React.js, Node.js, Firebase</sub></p>
     </td>
   </tr>
   <tr>
@@ -76,15 +76,15 @@ Here are some of the projects I'm most proud of.
       <p><sub><b>Tools:</b> React Native, Firebase, Expo</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/sri-harini-m/first-line-of-care">📌 Prior Care</a></h3>
-      <p>An AI-powered mobile healthcare app that provides health diagnostics, appointment scheduling, and a medicine shop. It integrates OpenAI's GPT to analyze symptoms and recommend actions.</p>
-      <p><sub><b>Tools:</b> React Native, Expo Go, OpenAI (GPT)</sub></p>
+      <h3><a href="https://github.com/saifxyzyz/Self-Help-RAG">📌 SelfHelp RAG</a></h3>
+      <p>A Retrieval Augmented Generation system that has self-help books as its knowledgebase and can be used as a personal ai consultant.</p>
+      <p><sub><b>Tools:</b> Python, LangChain, LangGraph, Groq API</sub></p>
     </td>
   </tr>
 </table>
 
 #### And some other cool things I've built:
-- **[JobHut](https://github.com/saifxyzyz/jobhut)**: A platform to connect job seekers with opportunities.
+- **[Legalite](https://github.com/M-A-Edwards/legalite)**: A cross-platform Flutter app to modernize the legal ecosystem by connecting clients and lawyers.
 - **[EyeConcept](https://github.com/esscs/eyeconcept)**: A mobile app to help sales representatives quote prices faster.
 - **[Alpha Bytes Thugs App](https://github.com/Mohammed-Shoaib01/Alpha_Bytes_Thugs_App)**: A fun project from a hackathon.
 - **Live Websites**: [dospace-ksa.com](https://dospace-ksa.com/), [massadrhr.com](https://www.massadrhr.com/), [mabraik.com](https://mabraik.com/), [strongmotorsksa](https://mabraik.com/strongmotorsksa), [gdgou.vercel.app](https://gdgou.vercel.app/), and [saeou.vercel.app](https://saeou.vercel.app/).
