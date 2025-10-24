@@ -108,6 +108,8 @@ Here are some of the projects I'm most proud of.
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=saifxyzyz&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
   </details>
 
+[![An image of @saif5009's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saif5009)](https://holopin.io/@saif5009)
+
 </div>
 
 ---
