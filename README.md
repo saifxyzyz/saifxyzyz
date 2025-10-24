@@ -65,7 +65,7 @@ Here are some of the projects I'm most proud of.
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/saifxyzyz/jobhut">📌 JobHut</a></h3>
-      <p>A Platform for connecting domestic workers with oportunities</p>
+      <p>A Platform for connecting domestic workers with opportunities</p>
       <p><sub><b>Tools:</b> JavaScript, TypeScript, React.js, Node.js, Firebase</sub></p>
     </td>
   </tr>
