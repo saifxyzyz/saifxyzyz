@@ -14,10 +14,10 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://x.com/saif0z">
-      <img src="https://img.shields.io/badge/twitter-0077B5?style=for-the-badge&logo=x&logoColor=white&color=black" alt="x"/>
+      <img src="https://img.shields.io/badge/twitter-0077B5?style=for-the-badge&logo=x&logoColor=white&color=black" alt="x"/> </br>
+      <img src="https://komarev.com/ghpvc/?username=saifxyzyz&color=blue&style=for-the-badge&label=PROFILE+VIEWS"/> </br>
     </a>
   </p>
-  
 </div>
 
 ---
