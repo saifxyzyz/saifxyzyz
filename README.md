@@ -15,7 +15,6 @@
     </a>
     <a href="https://x.com/saif0z">
       <img src="https://img.shields.io/badge/twitter-0077B5?style=for-the-badge&logo=x&logoColor=white&color=black" alt="x"/> </br>
-      <img src="https://komarev.com/ghpvc/?username=saifxyzyz&color=blue&style=for-the-badge&label=PROFILE+VIEWS"/> </br>
     </a>
   </p>
 </div>
@@ -120,6 +119,6 @@ I'm always open to collaborating on projects or discussing new ideas. Feel free 
 
 <p align="center">
   <a href="www.linkedin.com/in/mohammed-saif-a6097b227">
-    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/>
+    <img src="https://komarev.com/ghpvc/?username=saifxyzyz&color=blue&style=flat&label=PROFILE+VIEWS"/> </br>
   </a>
 </p>
