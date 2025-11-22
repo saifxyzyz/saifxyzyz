@@ -8,7 +8,9 @@
   <p>
     <strong>AI&ML Engineer | Full-Stack Developer | App Developer | Automation Enthusiast</strong>
   </p>
-  
+  <a href='https://saifxyzyz.qzz.io/'>
+    <img src="https://img.shields.io/badge/My%20Portfolio-C7EA46" />
+  </a>
   <p>
     <a href="www.linkedin.com/in/mohammed-saif-a6097b227">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -58,14 +60,14 @@ Here are some of the projects I'm most proud of.
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/saifxyzyz/jobhut">📌 arXiv Research Assistant</a></h3>
+      <p>Finds the most relevant research papers from arXiv and highlights key contributions of each paper.</p>
+      <p><sub><b>Tools:</b> Python, Google ADK</sub></p>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/saifxyzyz/WordSmith">📌 WordSmith</a></h3>
       <p>A fine-tuned LLM trained on professional and personalized emails to act as your professional correspondence</p>
       <p><sub><b>Tools:</b> Python, Huggingface, transformers, torch</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/saifxyzyz/jobhut">📌 JobHut</a></h3>
-      <p>A Platform for connecting domestic workers with opportunities</p>
-      <p><sub><b>Tools:</b> JavaScript, TypeScript, React.js, Node.js, Firebase</sub></p>
     </td>
   </tr>
   <tr>
