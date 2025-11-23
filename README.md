@@ -8,15 +8,16 @@
   <p>
     <strong>AI&ML Engineer | Full-Stack Developer | App Developer | Automation Enthusiast</strong>
   </p>
-  <a href='https://saifxyzyz.qzz.io/'>
-    <img src="https://img.shields.io/badge/My%20Portfolio-C7EA46" />
-  </a>
+
   <p>
     <a href="www.linkedin.com/in/mohammed-saif-a6097b227">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://x.com/saif0z">
-      <img src="https://img.shields.io/badge/twitter-0077B5?style=for-the-badge&logo=x&logoColor=white&color=black" alt="x"/> </br>
+      <img src="https://img.shields.io/badge/twitter-0077B5?style=for-the-badge&logo=x&logoColor=white&color=black" alt="x"/>
+    </a>
+    <a href='https://saifxyzyz.qzz.io/'>
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
   </p>
 </div>
