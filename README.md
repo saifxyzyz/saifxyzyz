@@ -1,8 +1,7 @@
 <div align="center">
   
   <h1>
-    Hi there, I'm Mohammed Saif 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Hi there, I'm Saif 
   </h1>
   
   <p>
@@ -98,12 +97,8 @@ Here are some of the projects I'm most proud of.
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=saifxyzyz&show_icons=true&theme=highcontrast&hide_border=true&border_radius=15" alt="Saif's GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=saifxyzyz&theme=highcontrast&hide_border=true&border_radius=5" alt="GitHub Streak" />
-
   <br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifxyzyz&layout=compact&theme=highcontrast&hide_border=true&langs_count=8" alt="Top Languages">
-  
+    
   <details>
     <summary>Click to view my GitHub Activity Graph</summary>
     <br>
