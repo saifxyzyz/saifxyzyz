@@ -99,11 +99,9 @@ Here are some of the projects I'm most proud of.
   <img src="https://github-readme-stats.vercel.app/api?username=saifxyzyz&show_icons=true&theme=highcontrast&hide_border=true&border_radius=15" alt="Saif's GitHub stats" />
   <br>
     
-  <details>
-    <summary>Click to view my GitHub Activity Graph</summary>
-    <br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=saifxyzyz&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-  </details>
+
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saifxyzyz&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 
 [![An image of @saif5009's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saif5009)](https://holopin.io/@saif5009)
 
