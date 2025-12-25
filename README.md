@@ -19,6 +19,8 @@
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
   </p>
+
+  **[View my resume](https://drive.google.com/file/d/1kRaK4NMcRHfoinfVy57DXdsij20fIEwC/view?usp=sharing)**
 </div>
 
 ---
@@ -60,7 +62,7 @@ Here are some of the projects I'm most proud of.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/saifxyzyz/jobhut">📌 arXiv Research Assistant</a></h3>
+      <h3><a href="https://github.com/saifxyzyz/Arxiv-Research-Assistant">📌 arXiv Research Assistant</a></h3>
       <p>Finds the most relevant research papers from arXiv and highlights key contributions of each paper.</p>
       <p><sub><b>Tools:</b> Python, Google ADK</sub></p>
     </td>
