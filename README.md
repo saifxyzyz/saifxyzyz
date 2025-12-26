@@ -20,7 +20,7 @@
     </a>
   </p>
 
-  **[View my resume](https://drive.google.com/file/d/1kRaK4NMcRHfoinfVy57DXdsij20fIEwC/view?usp=sharing)**
+  **[View my resume](https://drive.google.com/file/d/1dcEVbDvClRin6FuOMgJKma6f-4JasRkA/view?usp=sharing)**
 </div>
 
 ---
