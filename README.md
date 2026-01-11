@@ -97,7 +97,7 @@ Here are some of the projects I'm most proud of.
 ### 📊 My GitHub Stats
 
 <div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=saifxyzyz&theme=gruvbox&hide_border=false" alt="GitHub Streak" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=saifxyzyz&theme=github-dark-blue&hide_border=false" alt="GitHub Streak" />
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=saifxyzyz&show_icons=true&theme=highcontrast&hide_border=true&border_radius=15" alt="Saif's GitHub stats" /> -->
   <br>
     
