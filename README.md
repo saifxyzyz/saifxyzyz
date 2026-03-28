@@ -25,12 +25,6 @@
 
 ---
 
-### 🚀 About Me
-
-I'm a passionate and highly skilled Software Engineer with expertise in web and app development, automation, and data analysis. I specialize in creating scalable, user-centric solutions using modern technologies like React, Flutter, and Python. Having contributed to multiple award-winning hackathon projects, I have a proven ability to innovate and solve real-world problems. I am committed to continuous learning and delivering impactful results.
-
----
-
 ### 💻 My Tech Stack
 
 <div align="center">
